@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AmirhosseinKhadivi
 - ⭐ I am student at Shiraz University of Technology
-- 👀 I’m interested in Computer Network and AI
+- 👀 I’m interested in Computer Network
 - 💻 I can code with c++, java and python
 - 🌱 I’m currently coding in java
 - 💞️ I’m looking to collaborate on ...
